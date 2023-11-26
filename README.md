@@ -15,7 +15,7 @@ We, [Mirage AI](https://mirageai.xyz), are a startup building the future of ente
 ## Status
  
 - [x] Alpha: We are testing our products with a closed set of customers
-- [ ] Early access: Anyone can sign up to a waitlist and get early access, but most features are still being built
+- [x] Early access: Anyone can sign up to a waitlist and get early access, but most features are still being built
 - [ ] Public Beta: Available for everyone with stable feature set, but we are still working out kinks
 - [ ] Public: General Availability 
 
